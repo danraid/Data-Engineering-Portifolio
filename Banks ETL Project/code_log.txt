@@ -1,0 +1,12 @@
+2025-02-17 19:40:27 : Preliminaries complete. Initiating ETL process
+2025-02-17 19:40:29 : Data extraction complete. Initiating Transformation process
+2025-02-17 19:40:29 : Exchange rate file not found. Downloading...
+2025-02-17 19:40:30 : Exchange rate file downloaded successfully.
+2025-02-17 19:40:30 : Data transformation complete. Initiating Loading process
+2025-02-17 19:40:30 : Data saved to CSV file
+2025-02-17 19:40:30 : SQL Connection initiated
+2025-02-17 19:40:30 : Data loaded to Database as a table, Executing queries
+2025-02-17 19:40:30 : Process Complete
+2025-02-17 19:40:30 : Process Complete
+2025-02-17 19:40:30 : Process Complete
+2025-02-17 19:40:30 : Server Connection closed
