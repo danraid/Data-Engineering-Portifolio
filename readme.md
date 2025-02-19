@@ -11,7 +11,7 @@ Welcome to my **Data Engineering Portfolio**. This repository contains various p
 ### [PEP8 Analysis](./PEP8%20Analysis/)
 **Description**: This project integrates **PEP8 compliance checks** into the `pylint` package, ensuring that Python scripts follow best coding practices. It analyzes the code structure, formatting, and adherence to PEP8 standards using **pylint** and **flake8**.
 
-### [Pipelines](./Pipelines/)
+### [Pipelines Global Investment Portfolios](./Pipelines%20Global%20Investment%20Portfolios/)
 **Description**: This project focuses on designing and implementing **data pipelines** that automate data ingestion, transformation, and storage. It demonstrates the use of **Apache Airflow** and **ETL best practices** to streamline data workflows.
 
 ## How to Use
